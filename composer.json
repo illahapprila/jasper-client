@@ -1,0 +1,12 @@
+{
+    "name": "sujeet/jasper-client-with-dashboard",
+    "description": "This is my first package",
+    "authors": [
+        {
+            "name": "Sujeet Kumar",
+            "email": "sksujeetns@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
